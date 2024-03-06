@@ -10,7 +10,7 @@ function idiom() {
     }
 }
 
-document.addEventListener('DOMContentLoaded', function() {
+/*document.addEventListener('DOMContentLoaded', function() {
     const check = document.querySelector('.check');
   
     check.addEventListener('click', function idiom() {
@@ -37,4 +37,4 @@ document.addEventListener('DOMContentLoaded', function() {
         videoContainer.replaceChild(video, videoContainer.firstChild);
       }
     });
-  });
+  });*/
